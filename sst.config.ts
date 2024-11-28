@@ -3,7 +3,7 @@
 export default $config({
   app(input) {
     return {
-      name: "monorepo-template",
+      name: "sst-react-native",
       removal: input?.stage === "production" ? "retain" : "remove",
       home: "aws",
     };

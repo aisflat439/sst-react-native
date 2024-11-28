@@ -1,6 +1,6 @@
 {
-  "name": "monorepo-template",
-  "version": "0.0.0",
+  "name": "sst-react-native",
+  "version": "0.0.1",
   "workspaces": [
     "packages/*"
   ],

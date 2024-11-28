@@ -1,8 +1,8 @@
 {
-  "name": "@monorepo-template/functions",
+  "name": "@sst-react-native/functions",
   "version": "0.0.0",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@sst-react-native/core": "*",
     "sst": "*"
   },
   "devDependencies": {
