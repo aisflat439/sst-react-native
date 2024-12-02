@@ -1,6 +1,6 @@
 import { Text, View } from "react-native";
 
-export default function Index() {
+export default function Settings() {
   return (
     <View
       style={{
@@ -9,8 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Change appears on both with hot reload. work</Text>
-      <Text>{process.env.EXPO_PUBLIC_API_URL} .</Text>
+      <Text>Example Settings Page</Text>
     </View>
   );
 }
